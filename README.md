@@ -46,4 +46,9 @@ For detailed instructions, read How_To_Install_and_Use_Import_Helper.pdf, which 
 7. A message displays how many symbols and footprints were imported (import10 img)
 8. The SchLib and PcbLib are open with all imported symbols and footprints (import 011 img)
 
-## Awesome Things This Script Does (which UltraLibrarian provided script doesnt do)
+### Awesome Things This Script Does (which UltraLibrarian provided script doesnt do)
+  - Gives you control of how schematic symbols will be imported, control symbol fonts, text size, and symbol colors. See the definitions you can adjust at the top of AltiumImport.pas (import012 img)
+  - Import any number of files all at the same time. No need to import symbols one at a time (import013 import014)
+  - active low
+  - places pin 1 at origin
+  - displays mr part number
