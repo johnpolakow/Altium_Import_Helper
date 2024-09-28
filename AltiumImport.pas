@@ -43,9 +43,6 @@ What this script does:
         makes MFR Part # visible, at bottom left of symbol body, including for multipart sch symbols
         deletes default schematic symbol Component1
                
-
-        NEXT WEEKEND    upload to GitHub, include cardano donation address in this script
-
     Processes Footprints in PcbLib:
         deletes default footprint PcbComponent1
         changes silkscreen pin 1 indicator of '*' to filled circle
@@ -55,8 +52,10 @@ What this script does:
 
  ***************************************************************************}
 
+
+
 { CONSTANTS, EDIT ACCORDING TO YOUR PREFERENCE }
-const GRAPHICS_LIB_PATH = 'C:\Users\johnm\OneDrive\Documents\Altium\Scripting\My_Scripts\AltiumImportHelper\GraphicsPrimitives.SchLib';
+const GRAPHICS_LIB_PATH = '';
 const APPLY_FONTS_AND_COLORS_TO_SYMBOLS = True; // set this to True if you want below fonts and colors to take effect
 const PIN_FONT_NAME = 'Arial';
 const PIN_FONT_SIZE = 9;
