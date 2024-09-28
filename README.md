@@ -67,3 +67,9 @@ select AltiumImport.pas <br/>![plot](./img/import05.png) <br/>
 7. A message displays how many symbols and footprints were imported <br/>![plot](./img/import010.png)<br/> 
 8. The SchLib and PcbLib are open with all imported symbols and footprints <br/>![plot](./img/import011.png)<br/> 
 
+## Is This Script Useful For You? Want to Donate?
+Here's some crypto addresses you can donate to:<br/>
+Cardano: addr1qx69ujtyr4jhvfy0wxgkm2x4u3q3sq3qk2v3y4rulqq7qh0jmj7drfc0z6q99u0hyfhvrkxhxtyfg4vzcx56nwfqq3js6qkgnf <br/>
+[Meld:](https://www.meld.com/) 0x4D5b8e2e331F5021A5bf8a22e7De10efF596E061 <br/>
+Or my new favorite memecoin, [RawDog:](https://rawdogpumps.com/) 0x4D5b8e2e331F5021A5bf8a22e7De10efF596E061 <br/>
+
