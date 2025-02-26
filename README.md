@@ -67,5 +67,10 @@ select AltiumImport.pas <br/>![plot](./img/import05.png) <br/>
 7. A message displays how many symbols and footprints were imported <br/>![plot](./img/import010.png)<br/> 
 8. The SchLib and PcbLib are open with all imported symbols and footprints <br/>![plot](./img/import011.png)<br/> 
 
+## Note
+To get the 'GraphicsPrimitives' schematic symbol to be included with library imports, do the following:
+1. Go to the folder containing AltiumImportHelper, click on GraphicsPrimitives, then right click and select 'Copy as Path'
+2. Open AltiumImport.pas in a text editor (visual studio code, etc.)
+3. Scroll down to line 58 where it says 'GRAPHICS_LIB_PATH' and paste in the location
 ## Bonzai!!!
 
