@@ -72,6 +72,7 @@ To get the 'GraphicsPrimitives' schematic symbol to be included with library imp
 1. Go to the folder containing AltiumImportHelper, click on GraphicsPrimitives, then right click and select 'Copy as Path' <br/>![plot](./img/graphics_prims_01.png) <br/>   
 2. Open AltiumImport.pas in a text editor (visual studio code, etc.)
 3. Scroll down to line 58 where it says 'GRAPHICS_LIB_PATH' <br/>![plot](./img/graphics_prims_02.png) <br/>   
-4.  Paste the path <br/>![plot](./img/graphics_prims_03.png) <br/>  
+4.  Paste the path <br/>![plot](./img/graphics_prims_03.png) <br/>
+5.  Save and close. Now the Schematic Symbol Graphics will be included with all imports
 ## Bonzai!!!
 
